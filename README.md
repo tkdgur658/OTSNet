@@ -1,4 +1,4 @@
-
+ 
 # Implementation of OTSNet using PyTorch Deep Learning Framework
  
 The architecture was inspired by Effective encoder-decoder neural network for segmentation of orbital tissue in computed tomography images of Graves’ orbitopathy patients. 
